@@ -16,6 +16,7 @@
     <linkfile dest="build_redbull.sh" src="build_redbull.sh"/>
     <linkfile dest="build_sm8250.sh" src="build_sm8250.sh"/>
     <linkfile dest="build_sm7250.sh" src="build_sm7250.sh"/>
+    <linkfile dest="build_grapheneos.sh" src="build_grapheneos.sh" />
   </project>
   <project path="private/msm-google/arch/arm64/boot/dts/vendor" name="kernel/msm-extra/devicetree" groups="partner"/>
   <project path="private/msm-google/arch/arm64/boot/dts/vendor/qcom/camera" name="kernel/msm-extra/camera-devicetree" groups="partner"/>
