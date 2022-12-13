@@ -6,7 +6,7 @@
   <remote  name="grapheneos"
     fetch="https://github.com/GrapheneOS/"
     revision="refs/heads/13" />
-  <default revision="refs/tags/android-13.0.0_r0.57"
+  <default revision="refs/tags/android-t-qpr2-beta-3_r0.2"
     remote="aosp" sync-j="4" />
 
   <project path="build" name="kernel_build-redbull" groups="partner" remote="grapheneos"/>
